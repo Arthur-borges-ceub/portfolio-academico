@@ -1,9 +1,14 @@
-# Projetos Acadêmicos
+# Portfólio Acadêmico – Arthur Borges Rodrigues da Silva
 
-Esta pasta contém projetos desenvolvidos durante minha formação em Ciência da Computação, no contexto de disciplinas, atividades práticas e desafios do curso.
+Este repositório contém meus projetos acadêmicos, pessoais e materiais de documentação relacionados ao curso de Ciência da Computação – CEUB.
 
-## Projetos incluídos
+## Estrutura
 
-- **Green Day (Bootcamp I)**: Projeto focado em sustentabilidade e tecnologia.
+- 📁 `projetos-academicos/`: Projetos desenvolvidos durante as disciplinas.
+- 📁 `projetos-pessoais/`: Projetos que desenvolvi por conta própria.
+- 📁 `documentacao/`: Slides, instruções e arquivos extras.
 
-Cada projeto possui sua própria subpasta, com código-fonte, documentação e arquivos relacionados.
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/arthur-borges-023b5a258/)
+- [Portfólio Online](https://sites.google.com/view/arthur-borges-rodrigues-da-sil/p%C3%A1gina-inicial)
